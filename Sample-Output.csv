@@ -1,0 +1,4 @@
+TimeCreated,Id,LevelDisplayName,ProviderName,Message
+2026-05-10 08:15:22,6008,Error,EventLog,"The previous system shutdown was unexpected."
+2026-05-11 14:42:01,7031,Critical,Service Control Manager,"The Windows Update service terminated unexpectedly."
+2026-05-12 19:10:44,55,Error,Ntfs,"The file system structure on the disk is corrupt and unusable."
